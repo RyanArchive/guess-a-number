@@ -4,7 +4,9 @@ Guessing a number from 1 to 50, using Java.
 
 <br>
 
-## Inclusions
+## Additional Context
+
+### Inclusion
 
 - Prints if the guess is lower or higher than the correct number 
 - Prints the number of attempts until the correct guess
